@@ -10,7 +10,7 @@
   <img src="https://github.com/BrunnerLivio/brunnerlivio/blob/master/images/welcome.png?raw=true" style="max-width: 100%;" alt="Welcome to my Github Profile" />
   <br />
   <br />
-  <img height="50" alt="I am Abhishek Singh Manhas, and I specialize in backend development." src="images/personal.svg" />
+  <img height="50" alt="I am Abhishek Singh Manhas, and I specialize in backend development." src="images/personalInfo.png" />
   <br />
   <br />
 
