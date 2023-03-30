@@ -1,16 +1,18 @@
-### Hi there 👋
+<div align="center">
 
-<!--
-**abhishek-singh-manhas/abhishek-singh-manhas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![][logo-url]
+</div>
 
-Here are some ideas to get you started:
+[logo-url]: https://i.giphy.com/media/KzJkzjggfGN5Py6nkT/200.webp
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+<div align="center">
+  <img src="https://github.com/BrunnerLivio/brunnerlivio/blob/master/images/welcome.png?raw=true" style="max-width: 100%;" alt="Welcome to my Github Profile" />
+  <br />
+  <br />
+  <img height="50" alt="I am Abhishek Singh Manhas, and I specialize in backend development." src="images/personal.svg" />
+  <br />
+  <br />
+
+</div>
+
