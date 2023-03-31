@@ -49,15 +49,19 @@
 <br>
 </p>
 
-## 🚀You can also find me here
+## 📌Reach me
 
 <p align="center">
    <a href="https://www.linkedin.com/in/abhishek-singh-manhas"><img alt="LinkedIn" title="LinkedIn" height="48" width="48" src="https://github.com/peterthehan/peterthehan/blob/d79cc23b62615a0d38ab46bfa3896a4d4bb30c85/assets/linkedin.svg"></a>
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://github.com/abhishek-singh-manhas"><img alt="GitHub" title="GitHub" height="48" width="48" src="https://github.com/peterthehan/peterthehan/blob/d79cc23b62615a0d38ab46bfa3896a4d4bb30c85/assets/github.svg"></a>
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="mailto:abhishek.smanhas@gmail.com"><img alt="Abhishek Singh Manhas | Gmail" title="HackerRank" height="48" width="48" 
+src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Gmail.svg"></a>
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
    <a href="https://www.hackerrank.com/abhisheksmanhas?hr_r=1"><img alt="HackerRank" title="HackerRank" height="48" width="48" 
 src="https://upload.wikimedia.org/wikipedia/commons/4/40/HackerRank_Icon-1000px.png"></a>
+
 </p>
 
 <br>
