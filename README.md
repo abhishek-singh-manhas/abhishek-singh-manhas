@@ -40,9 +40,9 @@
 
 ## ⚡ GitHub Stats
 <p align="center">
-
+<div align="center">
 <img align="left" src="https://github-readme-stats.vercel.app/api?username=abhishek-singh-manhas&show_icons=true&count_private=true&theme=gruvbox"/><img width="48%" 
-src="https://github-readme-streak-stats.herokuapp.com/?user=abhishek-singh-manhas&theme=gruvbox" alt="larymak" />
+src="https://github-readme-streak-stats.herokuapp.com/?user=abhishek-singh-manhas&theme=gruvbox" alt="larymak" /></div>
 <div align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhishek-singh-manhas&layout=compact&count_private=true&theme=gruvbox" />
 </div></p>
 
