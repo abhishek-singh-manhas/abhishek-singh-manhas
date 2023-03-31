@@ -11,11 +11,15 @@
   <br />
   <br />
   <img height="50" alt="I am Abhishek Singh Manhas, and I specialize in backend development." src="images/personalInfo.png" />
-  <br />
-  <br />
 
 </div>
 
+ ### As a proficient backend developer experienced in Spring Boot, I possess a wealth of knowledge in Java and DSA. Currently, I am an apprentice at Geekster platform, where I am consistently enhancing my expertise in the technology field. My fervor for programming has enabled me to gain a comprehensive understanding of various programming languages, and I am perpetually enthusiastic to expand my knowledge further. I am committed, diligent, and constantly endeavoring to enhance my skills to achieve optimal outcomes.
+
+
+<br>
+<br>
+<br>
 
 ## 🚀💻 Technologies & Tools
 
@@ -30,34 +34,34 @@
   ![Java](https://img.shields.io/badge/Java-orange?style=flat-square&logo=java)
   ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
   ![Google Chrome](https://img.shields.io/badge/Chrome-black?style=flat-square&logo=google-chrome)
-
+  
+<br>
+<br>
 
 ## ⚡ GitHub Stats
-
-
 <p align="center">
 
-<img align="left" src="https://github-readme-stats.vercel.app/api?username=abhishek-singh-manhas&show_icons=true&count_private=true&theme=gruvbox" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhishek-singh-manhas&layout=compact&count_private=true&theme=gruvbox" />
-  
-</p>
+<img align="left" src="https://github-readme-stats.vercel.app/api?username=abhishek-singh-manhas&show_icons=true&count_private=true&theme=gruvbox"/><img width="48%" 
+src="https://github-readme-streak-stats.herokuapp.com/?user=abhishek-singh-manhas&theme=gruvbox" alt="larymak" />
+<div align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhishek-singh-manhas&layout=compact&count_private=true&theme=gruvbox" />
+</div></p>
 
-
-<br>
-<br>
 <br>
 <br>
 </p>
-
 
 ## 🚀You can also find me here
 
 <p align="center">
+   <a href="https://www.linkedin.com/in/abhishek-singh-manhas"><img alt="LinkedIn" title="LinkedIn" height="48" width="48" src="https://github.com/peterthehan/peterthehan/blob/d79cc23b62615a0d38ab46bfa3896a4d4bb30c85/assets/linkedin.svg"></a>
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://github.com/abhishek-singh-manhas"><img alt="GitHub" title="GitHub" height="48" width="48" src="https://github.com/peterthehan/peterthehan/blob/d79cc23b62615a0d38ab46bfa3896a4d4bb30c85/assets/github.svg"></a>
-  <a href="https://www.linkedin.com/in/abhishek-singh-manhas"><img alt="LinkedIn" title="LinkedIn" height="48" width="48" src="https://github.com/peterthehan/peterthehan/blob/d79cc23b62615a0d38ab46bfa3896a4d4bb30c85/assets/linkedin.svg"></a>
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+   <a href="https://www.hackerrank.com/abhisheksmanhas?hr_r=1"><img alt="HackerRank" title="HackerRank" height="48" width="48" 
+src="https://upload.wikimedia.org/wikipedia/commons/4/40/HackerRank_Icon-1000px.png"></a>
 </p>
 
-
+<br>
 
 
 <div align="center">
