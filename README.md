@@ -41,10 +41,10 @@
 ## ⚡ GitHub Stats
 
 <p align="center">
-<img align="left" src="https://github-readme-stats.vercel.app/api?username=abhishek-singh-manhas&show_icons=true&count_private=true&theme=gruvbox"/> 
-<img width="48%" align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=abhishek-singh-manhas&theme=gruvbox" alt="abhishek-singh-manhas" /><br>
+<img src="https://github-readme-stats.vercel.app/api?username=abhishek-singh-manhas&show_icons=true&count_private=true&theme=gruvbox"/> 
+<img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=abhishek-singh-manhas&theme=gruvbox" alt="abhishek-singh-manhas" />
 <div align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhishek-singh-manhas&layout=compact&count_private=true&theme=gruvbox" />
-</div>
+</div></p>
 
 <br>
 <br>
